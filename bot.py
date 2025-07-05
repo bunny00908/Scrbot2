@@ -10,7 +10,7 @@ API_ID = 29569239  # your api_id from my.telegram.org
 API_HASH = "b2407514e15f24c8ec2c735e8018acd7"
 BOT_TOKEN = "7617922225:AAE7xRwHXK--FWUo_MdlaKm1ZT-7gkuu4Nk"  # Get a new one from @BotFather
 
-SOURCE_GROUPS = [-1002621183707]  # Telegram group ID where the bot listens for messages
+SOURCE_GROUPS = [-1002854404728]  # Telegram group ID where the bot listens for messages
 TARGET_CHANNEL = -1002871766358   # Must be an integer (no quotes), and bot must be an admin
 
 MAIN_CHANNEL_LINK = "https://t.me/approvedccm"
