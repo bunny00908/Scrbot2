@@ -13,8 +13,8 @@ BOT_TOKEN = "7617922225:AAE7xRwHXK--FWUo_MdlaKm1ZT-7gkuu4Nk"  # Get a new one fr
 SOURCE_GROUPS = [-1002854404728]  # Telegram group ID where the bot listens for messages
 TARGET_CHANNEL = -1002871766358   # Must be an integer (no quotes), and bot must be an admin
 
-MAIN_CHANNEL_LINK = "https://t.me/approvedccm"
-BACKUP_CHANNEL_LINK = "https://t.me/+70mI9Ce2U_JlMGJl"
+MAIN_CHANNEL_LINK = "https://t.me/approvedcco"
+BACKUP_CHANNEL_LINK = "https://t.me/+gjgPhWFlvWQxYWU1"
 # =======================================
 
 # Enable logging to see issues
